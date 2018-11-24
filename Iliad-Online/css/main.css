@@ -1,0 +1,36 @@
+div.img.responsive {
+  max-width: 60%;
+  height: auto;
+  display: block;
+}
+#social-buttons button{
+  color: white;
+}
+
+div.container div.jumbotron {
+    background: url(klematis.jpg) repeat;
+}
+
+div.jumbotron div.container {
+    margin: 30px;
+    background-color: #ffffff;
+    opacity: 0.6;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+div.jumbotron div.container {
+    margin: 5%;
+    font-weight: bold;
+    color: #000000;
+}
+
+.nav navbar-nav {
+  font-size: 14;
+}
+.btn-black {
+  background-color: #000;
+  color: #FFF;
+}
+.btn-black: hover {
+  color: #FFF;
+}
